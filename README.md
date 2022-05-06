@@ -80,4 +80,8 @@ Training:
   *  Relevant images for README
   
 ### Software Setup
+![image](https://user-images.githubusercontent.com/89665026/167159388-843ea01e-6fd8-40ff-aa10-f78c9627a26f.png)
 
+### Data
+
+* Download the data: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
